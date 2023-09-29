@@ -1,0 +1,29 @@
+@media (max-width: 991px) {
+    .navbar-collapse .form-control {
+        height: 25px; /* Adjust the height as needed */
+        background-color: rgb(6, 91, 181);
+        border: none;
+        
+    }
+}
+@media (max-width: 991px) {
+    .row image {
+        transform: translatex(-50);
+        
+    }
+}
+@media (max-width: 360px) {
+    .box-1{
+        max-width: 50px;
+        
+    }
+}
+@media (max-width: 765px) {
+    .side-body{
+        transform: 1s;
+        display: none;
+        transform: translateX(100px);
+
+        
+    }
+}
